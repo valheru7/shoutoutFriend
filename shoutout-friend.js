@@ -1,5 +1,7 @@
 "use strict";
 
+// Copyright (C) 2026 Jerica Wilson. Licensed under GPL-3.0-or-later; see LICENSE.
+
 // Shoutout Friend: `!so @streamer` posts a short, personal shoutout written by Claude
 // from the streamer's name and what they play. The stream title is sent as background only and never mentioned.
 

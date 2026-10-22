@@ -39,4 +39,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-MIT
+GPL-3.0-or-later. Copyright (C) 2026 Jerica Wilson. You can use and change it, but if you share a modified version it must also be GPL-3.0 with its source. See [LICENSE](LICENSE).
